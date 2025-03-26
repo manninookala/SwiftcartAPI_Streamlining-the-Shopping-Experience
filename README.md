@@ -1,7 +1,16 @@
-# Simple express demo
+# SwiftCart API – Streamlining the Shopping Experience
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
+SwiftCart API is a lightweight and efficient backend system designed to manage shopping cart operations seamlessly. Built with **Express.js**, it provides RESTful endpoints for adding, editing, deleting, and retrieving cart items.
 
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
+## 🚀 Live Deployment  
 
-Check out the [express documentation](https://expressjs.com/) for more information.
+- **Backend (SwiftCart API) Deployment:** https://bd-3-4-assignment-red.vercel.app/ 
+- **Frontend Application:** https://bd-3-assignment.vercel.app/
+
+## 🛠 Features  
+
+- Add, edit, delete, and retrieve cart items efficiently.  
+- Calculate total quantity and price dynamically.  
+- Optimized state management with in-memory storage.  
+- Secure API with **CORS policies** for frontend integration.  
+- Deployed on **Vercel** for seamless accessibility.  
